@@ -8,44 +8,43 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <h1>C File Operations</h1>
   
   <p>
-    An awesome README template for your projects! 
+    My first project in C, produced as a team.
   </p>
   
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/jocelyn-rennie/C-File-Operations/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/jocelyn-rennie/C-File-Operations" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/jocelyn-rennie/C-File-Operations" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/jocelyn-rennie/C-File-Operations/network/members">
+    <img src="https://img.shields.io/github/forks/jocelyn-rennie/C-File-Operations" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/jocelyn-rennie/C-File-Operations/stargazers">
+    <img src="https://img.shields.io/github/stars/jocelyn-rennie/C-File-Operations" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/jocelyn-rennie/C-File-Operations/issues/">
+    <img src="https://img.shields.io/github/issues/jocelyn-rennie/C-File-Operations" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/jocelyn-rennie/C-File-Operations/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jocelyn-rennie/C-File-Operations.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/jocelyn-rennie/C-File-Operations/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/jocelyn-rennie/C-File-Operations">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/jocelyn-rennie/C-File-Operations/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/jocelyn-rennie/C-File-Operations/issues/">Request Feature</a>
   </h4>
 </div>
 

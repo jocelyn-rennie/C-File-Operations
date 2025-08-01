@@ -31,14 +31,13 @@ quit
 
 ```
 
+## Video and Photo Examples
+
+I am working on getting examples.
+
 ## Authors
 
 Contributors names and contact info
 
 ex. Elliot Hardy 
 ex. Micha'el Ibn Hanif
-
-
-## Video and Photo Examples
-
-I am working on getting examples.
